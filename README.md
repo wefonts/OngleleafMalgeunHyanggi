@@ -9,7 +9,7 @@
     font-display: swap;
 }
 
-.OngleapNuka {
+OngleleafMalgeunHyanggi {
     font-family: "OngleleafMalgeunHyanggi";
 }
   
